@@ -1,2 +1,2 @@
 # Machine_learning
-I am machine-learning enthusiast, and trying to figure out magic (math) behind those algorithms.
+I am a machine-learning enthusiast, and trying to figure out magic (math) behind those algorithms.
